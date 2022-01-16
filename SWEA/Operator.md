@@ -180,3 +180,4 @@ print("혼합된 소금물의 농도: {:.2f}%" .format(20 / (100 + 200) * 100))
 - 'input'이 없어 당황하였다. 어떤 변수를 무조건적으로 정하려고 하기 보다는 주어진 문제에 따라 풀 수 있는 경험이 되었다. 또한 소금물 농도를 구하는 공식도 헷갈려서 찾아봤는데 이 정도는 외워둬야겠다.
 
 ![img](https://blogfiles.pstatic.net/MjAyMTEyMjlfNzEg/MDAxNjQwNzQyMDc1MjM3.igHMfD0z6Y0b0QW-l093WsVEZme6N-LaPuSoi7FGMYYg.UigKZdizLaRbUgxTccoMVe9kNvEvg8t-Hx8zKVZv5lcg.PNG.0sik0sikno/image.png)
+
